@@ -20,3 +20,6 @@ Visão Computacional: reconhecimento de texto com OCR e OpenCV
 * [Link pytesseract](https://pypi.org/project/pytesseract/)
 
 * [Link OpenCV](https://docs.opencv.org/4.x/index.html)
+
+* [Link Pillow](https://pillow.readthedocs.io/en/stable/)
+ 
